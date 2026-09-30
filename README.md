@@ -7,6 +7,6 @@
 
 #### One of my main projects, which you're welcome to explore, is ***CareerStart***, a job portal built as a full-stack application using **Java/Spring Boot** for the backend and **React** for the frontend. It gave me hands-on experience building **REST APIs**, working with **JWT authentication**, implementing **role-based authorization**, and putting together a complete frontend-backend application.
 
-#### I decided not to submit it for this year's Nobel Prize of Computing though, and instead got busy with another application, a ***University Management System***, a server-side rendered application built with **Java/Spring #### Boot** and **Thymeleaf**. It's still a work in progress, but I enjoy seeing how a different approach compares to my previous project.
+#### I decided not to submit it for this year's Nobel Prize of Computing though, and instead got busy with another application, a ***University Management System***, a server-side rendered application built with **Java/Spring Boot** and **Thymeleaf**. It's still a work in progress, but I enjoy seeing how a different approach compares to my previous project.
 
 #### Feel free to enjoy the fruits of my labour! ✨
